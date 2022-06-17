@@ -1,0 +1,22 @@
+{
+  "name": "Akirameru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "glob": "^7.2.0",
+    "gradient-string": "^2.0.0",
+    "node-bash-title": "^0.0.2",
+    "node-cmd": "^5.0.0",
+    "node-fetch": "^2.6.7",
+    "shelljs": "^0.8.5",
+    "small-sm": "^1.0.7",
+    "url-download-file": "^1.1.0"
+  }
+}
